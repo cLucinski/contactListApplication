@@ -2,6 +2,7 @@
 <pre>
 
 Creates and/or reads a database file, allowing for multiple actions to be performed with the information.  
+After making executable, can be run with ./bin/contactList
   
   
 |Action Key|  
